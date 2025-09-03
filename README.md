@@ -1,5 +1,5 @@
 ## Hi 👋, I am Luca Gloger
-- 🔭 I’m currently working on `Simpli Discord Bot`<br>
+- 🔭 I’m currently working on `Quantum Group Website`<br>
 - 🌱 I’m currently getting more into `Discord.js`<br>
 - 📫 Drop an email: luca.kloger@gmail.com
 
