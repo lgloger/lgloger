@@ -1,6 +1,3 @@
 ## Hi 👋, I am Luca Gloger
 - 🔭 I’m currently working on `Portfolio`<br>
 - 🌱 I’m currently getting more into `Discord.js`<br>
-
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,discordjs)](https://skillicons.dev)
