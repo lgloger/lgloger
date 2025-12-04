@@ -4,4 +4,4 @@ I love creating clean, responsive user interfaces and turning ideas into smooth,
 My main tech stack is HTML, CCS and javascript.<br><br>
 I’ve got a bunch of pinned projects, but my favorite is the [**Portfolio**](https://github.com/lgloger/lucagloger).<br><br>
 I like trying out new ideas, improving my code, and learning anything that helps me build better websites.<br><br>
-If you’d like to reach out, you can contact me anytime at luca.kloger@gmail.com
+If you’d like to reach out, you can contact me anytime at luca.kloger2@gmail.com
